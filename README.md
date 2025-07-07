@@ -19,7 +19,7 @@
    Open your terminal or Git Bash and run:
 
    ```bash
-   git clone https://github.com/purwananet/retrogames-win64
+   git clone https://github.com/Koperasi-KKGI/RetroGames-win64
 
    
 2. **Launch the application**  
