@@ -37,7 +37,7 @@
 
 ## 🌐 Requirements
 
-- Windows 10/11 (64-bit)
+- Windows (64-bit)
 - Internet connection (only required for initial downloads and updates)
 - Basic GPU and CPU (optimized for lightweight performance)
 
